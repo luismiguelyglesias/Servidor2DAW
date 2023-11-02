@@ -1,0 +1,3 @@
+Esta carpeta incluye los archivos php de la entrega "Creación y consumo de JSON de agenda"
+así como el csv del que se extraen los datos. También tiene un archivo con la extensión JSON para poder
+visualizar en texto plano el contenido json de la página sin necesidad de encender el servidor Apache y abrir la página php.
