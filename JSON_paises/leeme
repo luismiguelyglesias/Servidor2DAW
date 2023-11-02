@@ -1,0 +1,3 @@
+En esta carpeta se incluye únicamente el archivo php necesario para la entrega "JSON: Países", no es necesario
+ningún archivo extra ya que la información de los países se extrae de una url externa. 
+Como detalle, se muestran también las banderas de los países.
